@@ -1,0 +1,311 @@
+state_name,year,forecast,model
+Andhra Pradesh,2015,611905.067027204,Holt's method
+Andhra Pradesh,2016,702446.670700428,Holt's method
+Andhra Pradesh,2017,806385.42114929,Holt's method
+Andhra Pradesh,2018,925703.65063262,Holt's method
+Andhra Pradesh,2019,1062677.01066971,Holt's method
+Andhra Pradesh,2020,1219917.87353778,Holt's method
+Andhra Pradesh,2021,1400425.155748,Holt's method
+Andhra Pradesh,2022,1607641.51373922,Holt's method
+Andhra Pradesh,2023,1845519.00263265,Holt's method
+Andhra Pradesh,2024,2118594.45029902,Holt's method
+Arunachal Pradesh,2015,19007.0983059692,Holt's method
+Arunachal Pradesh,2016,21987.8431296699,Holt's method
+Arunachal Pradesh,2017,25436.0364592388,Holt's method
+Arunachal Pradesh,2018,29424.9848400407,Holt's method
+Arunachal Pradesh,2019,34039.4909491545,Holt's method
+Arunachal Pradesh,2020,39377.6564499997,Holt's method
+Arunachal Pradesh,2021,45552.9675755247,Holt's method
+Arunachal Pradesh,2022,52696.7077782208,Holt's method
+Arunachal Pradesh,2023,60960.7487384691,Holt's method
+Arunachal Pradesh,2024,70520.7790664041,Holt's method
+Assam,2015,225395.929505137,Holt's method
+Assam,2016,256274.459964406,Holt's method
+Assam,2017,291383.25157088,Holt's method
+Assam,2018,331301.836741012,Holt's method
+Assam,2019,376689.142001935,Holt's method
+Assam,2020,428294.364733862,Holt's method
+Assam,2021,486969.33999186,Holt's method
+Assam,2022,553682.601543134,Holt's method
+Assam,2023,629535.369222006,Holt's method
+Assam,2024,715779.726502048,Holt's method
+Bihar,2015,431531.296296999,Holt's method
+Bihar,2016,499354.449785189,Holt's method
+Bihar,2017,577837.270807472,Holt's method
+Bihar,2018,668655.123986304,Holt's method
+Bihar,2019,773746.688593419,Holt's method
+Bihar,2020,895355.343334726,Holt's method
+Bihar,2021,1036077.05552236,Holt's method
+Bihar,2022,1198915.79691905,Holt's method
+Bihar,2023,1387347.66921109,Holt's method
+Bihar,2024,1605395.10798973,Holt's method
+Chhattisgarh,2015,266193.80993358,Holt's method
+Chhattisgarh,2016,300356.592409497,Holt's method
+Chhattisgarh,2017,338903.758229221,Holt's method
+Chhattisgarh,2018,382397.990403683,Holt's method
+Chhattisgarh,2019,431474.185558817,Holt's method
+Chhattisgarh,2020,486848.721686827,Holt's method
+Chhattisgarh,2021,549329.91530217,Holt's method
+Chhattisgarh,2022,619829.820648071,Holt's method
+Chhattisgarh,2023,699377.543189669,Holt's method
+Chhattisgarh,2024,789134.261734295,Holt's method
+Delhi,2015,575502.969096518,Holt's method
+Delhi,2016,669825.200435855,Holt's method
+Delhi,2017,779606.402106479,Holt's method
+Delhi,2018,907380.226676935,Holt's method
+Delhi,2019,1056095.58046168,Holt's method
+Delhi,2020,1229184.68165805,Holt's method
+Delhi,2021,1430642.27289191,Holt's method
+Delhi,2022,1665117.81632723,Holt's method
+Delhi,2023,1938022.79912068,Holt's method
+Delhi,2024,2255655.62573588,Holt's method
+Goa,2015,52487.9263671549,Holt's method
+Goa,2016,60310.8727769846,Holt's method
+Goa,2017,69299.7728597213,Holt's method
+Goa,2018,79628.4035909633,Holt's method
+Goa,2019,91496.4421496782,Holt's method
+Goa,2020,105133.326156491,Holt's method
+Goa,2021,120802.689252611,Holt's method
+Goa,2022,138807.457769773,Holt's method
+Goa,2023,159495.707022026,Holt's method
+Goa,2024,183267.390435528,Holt's method
+Gujarat,2015,1041511.86066773,Holt's method
+Gujarat,2016,1197852.64089086,Holt's method
+Gujarat,2017,1377661.65079417,Holt's method
+Gujarat,2018,1584461.69359979,Holt's method
+Gujarat,2019,1822304.37860987,Holt's method
+Gujarat,2020,2095849.50000027,Holt's method
+Gujarat,2021,2410456.33112193,Holt's method
+Gujarat,2022,2772288.62294027,Holt's method
+Gujarat,2023,3188435.36373333,Holt's method
+Gujarat,2024,3667049.6659627,Holt's method
+Haryana,2015,512863.275383244,Holt's method
+Haryana,2016,591147.391485479,Holt's method
+Haryana,2017,681380.896690155,Holt's method
+Haryana,2018,785387.761261372,Holt's method
+Haryana,2019,905270.368652035,Holt's method
+Haryana,2020,1043452.0128544,Holt's method
+Haryana,2021,1202725.88260139,Holt's method
+Haryana,2022,1386311.52257994,Holt's method
+Haryana,2023,1597919.9129573,Holt's method
+Haryana,2024,1841828.48273068,Holt's method
+Himachal Pradesh,2015,120505.694044783,Holt's method
+Himachal Pradesh,2016,139109.478659249,Holt's method
+Himachal Pradesh,2017,160585.333383969,Holt's method
+Himachal Pradesh,2018,185376.651156947,Holt's method
+Himachal Pradesh,2019,213995.276343182,Holt's method
+Himachal Pradesh,2020,247032.072331612,Holt's method
+Himachal Pradesh,2021,285169.120567811,Holt's method
+Himachal Pradesh,2022,329193.802885051,Holt's method
+Himachal Pradesh,2023,380015.057879147,Holt's method
+Himachal Pradesh,2024,438682.146958026,Holt's method
+Jammu & Kashmir,2015,119225.399804545,Holt's method
+Jammu & Kashmir,2016,135646.688141324,Holt's method
+Jammu & Kashmir,2017,154329.73203591,Holt's method
+Jammu & Kashmir,2018,175586.050176627,Holt's method
+Jammu & Kashmir,2019,199770.067698006,Holt's method
+Jammu & Kashmir,2020,227285.025820224,Holt's method
+Jammu & Kashmir,2021,258589.705441722,Holt's method
+Jammu & Kashmir,2022,294206.076793319,Holt's method
+Jammu & Kashmir,2023,334728.0027032,Holt's method
+Jammu & Kashmir,2024,380831.140589879,Holt's method
+Jharkhand,2015,242863.804510022,Holt's method
+Jharkhand,2016,271676.865495834,Holt's method
+Jharkhand,2017,303908.272352688,Holt's method
+Jharkhand,2018,339963.573401181,Holt's method
+Jharkhand,2019,380296.430712402,Holt's method
+Jharkhand,2020,425414.328263708,Holt's method
+Jharkhand,2021,475884.957303018,Holt's method
+Jharkhand,2022,532343.359264834,Holt's method
+Jharkhand,2023,595499.916112964,Holt's method
+Jharkhand,2024,666149.288647607,Holt's method
+Karnataka,2015,1066050.28927933,Holt's method
+Karnataka,2016,1235199.91050732,Holt's method
+Karnataka,2017,1431188.41039733,Holt's method
+Karnataka,2018,1658274.29927059,Holt's method
+Karnataka,2019,1921391.78297143,Holt's method
+Karnataka,2020,2226257.97510942,Holt's method
+Karnataka,2021,2579497.12060988,Holt's method
+Karnataka,2022,2988784.52974779,Holt's method
+Karnataka,2023,3463013.35011674,Holt's method
+Karnataka,2024,4012487.80021581,Holt's method
+Kerala,2015,607212.239349755,Holt's method
+Kerala,2016,699464.666108381,Holt's method
+Kerala,2017,805732.802187967,Holt's method
+Kerala,2018,928146.023634996,Holt's method
+Kerala,2019,1069157.21793897,Holt's method
+Kerala,2020,1231591.93441799,Holt's method
+Kerala,2021,1418705.00191491,Holt's method
+Kerala,2022,1634245.74829612,Holt's method
+Kerala,2023,1882533.12860606,Holt's method
+Kerala,2024,2168542.26727789,Holt's method
+Madhya Pradesh,2015,559246.451276662,Holt's method
+Madhya Pradesh,2016,645471.989037654,Holt's method
+Madhya Pradesh,2017,744991.922042819,Holt's method
+Madhya Pradesh,2018,859856.002018819,Holt's method
+Madhya Pradesh,2019,992430.014785172,Holt's method
+Madhya Pradesh,2020,1145444.50691052,Holt's method
+Madhya Pradesh,2021,1322051.02512493,Holt's method
+Madhya Pradesh,2022,1525887.02681727,Holt's method
+Madhya Pradesh,2023,1761150.7985399,Holt's method
+Madhya Pradesh,2024,2032687.92557153,Holt's method
+Maharashtra,2015,2030656.4891956,Holt's method
+Maharashtra,2016,2300926.41235537,Holt's method
+Maharashtra,2017,2607167.87070755,Holt's method
+Maharashtra,2018,2954168.49037409,Holt's method
+Maharashtra,2019,3347353.105863,Holt's method
+Maharashtra,2020,3792868.56922362,Holt's method
+Maharashtra,2021,4297679.84686381,Holt's method
+Maharashtra,2022,4869678.90635875,Holt's method
+Maharashtra,2023,5517808.09553328,Holt's method
+Maharashtra,2024,6252199.94266488,Holt's method
+Manipur,2015,20427.4896238881,Holt's method
+Manipur,2016,23240.3256202379,Holt's method
+Manipur,2017,26440.485095294,Holt's method
+Manipur,2018,30081.3019360486,Holt's method
+Manipur,2019,34223.4540291691,Holt's method
+Manipur,2020,38935.97451921,Holt's method
+Manipur,2021,44297.4023156299,Holt's method
+Manipur,2022,50397.0910229727,Holt's method
+Manipur,2023,57336.6981088557,Holt's method
+Manipur,2024,65231.8791282517,Holt's method
+Meghalaya,2015,28816.9212064895,Holt's method
+Meghalaya,2016,33205.8512604762,Holt's method
+Meghalaya,2017,38263.2325650583,Holt's method
+Meghalaya,2018,44090.8728658427,Holt's method
+Meghalaya,2019,50806.08562715,Holt's method
+Meghalaya,2020,58544.0516137525,Holt's method
+Meghalaya,2021,67460.5401507681,Holt's method
+Meghalaya,2022,77735.0448421023,Holt's method
+Meghalaya,2023,89574.3968710996,Holt's method
+Meghalaya,2024,103216.928621048,Holt's method
+Mizoram,2015,13477.0592705543,Holt's method
+Mizoram,2016,15676.5234715115,Holt's method
+Mizoram,2017,18234.9415565598,Holt's method
+Mizoram,2018,21210.8950160677,Holt's method
+Mizoram,2019,24672.5258749622,Holt's method
+Mizoram,2020,28699.0969777348,Holt's method
+Mizoram,2021,33382.8069129015,Holt's method
+Mizoram,2022,38830.9011342287,Holt's method
+Mizoram,2023,45168.1276182174,Holt's method
+Mizoram,2024,52539.5932863688,Holt's method
+Nagaland,2015,20958.617358649,Holt's method
+Nagaland,2016,23854.4927982086,Holt's method
+Nagaland,2017,27150.4945637534,Holt's method
+Nagaland,2018,30901.9085541723,Holt's method
+Nagaland,2019,35171.6595824106,Holt's method
+Nagaland,2020,40031.3668527103,Holt's method
+Nagaland,2021,45562.545274312,Holt's method
+Nagaland,2022,51857.9727620062,Holt's method
+Nagaland,2023,59023.2464581203,Holt's method
+Nagaland,2024,67178.5539794254,Holt's method
+Odisha,2015,358500.880814843,Holt's method
+Odisha,2016,408979.584759536,Holt's method
+Odisha,2017,466565.940842053,Holt's method
+Odisha,2018,532260.741772283,Holt's method
+Odisha,2019,607205.696842509,Holt's method
+Odisha,2020,692703.273681865,Holt's method
+Odisha,2021,790239.333828298,Holt's method
+Odisha,2022,901508.955501479,Holt's method
+Odisha,2023,1028445.89235032,Holt's method
+Odisha,2024,1173256.18013842,Holt's method
+Punjab,2015,417378.272258681,Holt's method
+Punjab,2016,473062.195207026,Holt's method
+Punjab,2017,536175.108788106,Holt's method
+Punjab,2018,607708.141121118,Holt's method
+Punjab,2019,688784.650260283,Holt's method
+Punjab,2020,780677.865461778,Holt's method
+Punjab,2021,884830.882034977,Holt's method
+Punjab,2022,1002879.32377805,Holt's method
+Punjab,2023,1136677.02888986,Holt's method
+Punjab,2024,1288325.16273097,Holt's method
+Rajasthan,2015,711223.141886334,Holt's method
+Rajasthan,2016,821757.436828643,Holt's method
+Rajasthan,2017,949470.349336727,Holt's method
+Rajasthan,2018,1097031.6833988,Holt's method
+Rajasthan,2019,1267526.16890197,Holt's method
+Rajasthan,2020,1464517.94707852,Holt's method
+Rajasthan,2021,1692125.07791701,Holt's method
+Rajasthan,2022,1955105.62709556,Holt's method
+Rajasthan,2023,2258957.13206148,Holt's method
+Rajasthan,2024,2610031.52656877,Holt's method
+Sikkim,2015,17977.646267012,Holt's method
+Sikkim,2016,21249.615414923,Holt's method
+Sikkim,2017,25117.0897778035,Holt's method
+Sikkim,2018,29688.4525478613,Holt's method
+Sikkim,2019,35091.8128845295,Holt's method
+Sikkim,2020,41478.5960816789,Holt's method
+Sikkim,2021,49027.7871527565,Holt's method
+Sikkim,2022,57950.9467572775,Holt's method
+Sikkim,2023,68498.1400364099,Holt's method
+Sikkim,2024,80964.944509011,Holt's method
+Tamil Nadu,2015,1253403.06265967,Holt's method
+Tamil Nadu,2016,1437914.95719035,Holt's method
+Tamil Nadu,2017,1649588.61654954,Holt's method
+Tamil Nadu,2018,1892422.49010809,Holt's method
+Tamil Nadu,2019,2171003.63395928,Holt's method
+Tamil Nadu,2020,2490594.35897699,Holt's method
+Tamil Nadu,2021,2857231.63422597,Holt's method
+Tamil Nadu,2022,3277841.12342359,Holt's method
+Tamil Nadu,2023,3760368.00856626,Holt's method
+Tamil Nadu,2024,4313927.07193798,Holt's method
+Telangana,2015,605956.607675977,Holt's method
+Telangana,2016,702810.62936033,Holt's method
+Telangana,2017,815145.465013212,Holt's method
+Telangana,2018,945435.514736556,Holt's method
+Telangana,2019,1096550.67824083,Holt's method
+Telangana,2020,1271819.57014327,Holt's method
+Telangana,2021,1475102.83938209,Holt's method
+Telangana,2022,1710878.20775395,Holt's method
+Telangana,2023,1984339.10071891,Holt's method
+Telangana,2024,2301509.04301436,Holt's method
+Tripura,2015,33872.7032071483,Holt's method
+Tripura,2016,38807.7084915696,Holt's method
+Tripura,2017,44461.707976375,Holt's method
+Tripura,2018,50939.4538614895,Holt's method
+Tripura,2019,58360.9599767422,Holt's method
+Tripura,2020,66863.7252897966,Holt's method
+Tripura,2021,76605.2813629361,Holt's method
+Tripura,2022,87766.1109556831,Holt's method
+Tripura,2023,100552.991846489,Holt's method
+Tripura,2024,115202.827824802,Holt's method
+Uttar Pradesh,2015,1185014.96013447,Holt's method
+Uttar Pradesh,2016,1326575.56140083,Holt's method
+Uttar Pradesh,2017,1485046.83848569,Holt's method
+Uttar Pradesh,2018,1662448.92237237,Holt's method
+Uttar Pradesh,2019,1861043.26669942,Holt's method
+Uttar Pradesh,2020,2083361.47590312,Holt's method
+Uttar Pradesh,2021,2332237.57713864,Holt's method
+Uttar Pradesh,2022,2610844.14736987,Holt's method
+Uttar Pradesh,2023,2922732.75616221,Holt's method
+Uttar Pradesh,2024,3271879.23972751,Holt's method
+Uttarakhand,2015,191055.394190297,Holt's method
+Uttarakhand,2016,225340.170689317,Holt's method
+Uttarakhand,2017,265777.329875931,Holt's method
+Uttarakhand,2018,313470.913152762,Holt's method
+Uttarakhand,2019,369723.081493436,Holt's method
+Uttarakhand,2020,436069.667881392,Holt's method
+Uttarakhand,2021,514322.109612634,Holt's method
+Uttarakhand,2022,606616.905325182,Holt's method
+Uttarakhand,2023,715473.947062963,Holt's method
+Uttarakhand,2024,843865.319993755,Holt's method
+West Bengal,2015,910192.617747448,Holt's method
+West Bengal,2016,1034423.10466036,Holt's method
+West Bengal,2017,1175609.57822674,Holt's method
+West Bengal,2018,1336066.32933073,Holt's method
+West Bengal,2019,1518423.52208787,Holt's method
+West Bengal,2020,1725670.30679134,Holt's method
+West Bengal,2021,1961203.81726343,Holt's method
+West Bengal,2022,2228884.85576389,Holt's method
+West Bengal,2023,2533101.17822718,Holt's method
+West Bengal,2024,2878839.41718326,Holt's method
+Puducherry,2015,28185.8462469245,Holt's method
+Puducherry,2016,32826.5665733552,Holt's method
+Puducherry,2017,38231.3684519052,Holt's method
+Puducherry,2018,44526.0557615466,Holt's method
+Puducherry,2019,51857.1456361655,Holt's method
+Puducherry,2020,60395.2788437391,Holt's method
+Puducherry,2021,70339.1916748528,Holt's method
+Puducherry,2022,81920.3417914937,Holt's method
+Puducherry,2023,95408.2957088403,Holt's method
+Puducherry,2024,111117.003310779,Holt's method
